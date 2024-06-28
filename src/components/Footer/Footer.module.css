@@ -1,0 +1,7 @@
+.footer {
+    grid-area: n;
+    background-color: pink;
+    padding: 50px;
+    color: white;
+  }
+  
